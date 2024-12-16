@@ -19,7 +19,7 @@ Este é um analisador léxico para código escrito em Lua, desenvolvido para ide
 ### Instalação
 1. Clone este repositório:
    ```bash
-    https://github.com/LuizGabs/analisador-lexico-lua.git
+    git clone https://github.com/LuizGabs/analisador-lexico-lua.git
       ```
 2. Acesse o diretório do projeto:
    ```bash
